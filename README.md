@@ -1,2 +1,2 @@
 # TemplateOneClone
-HTML And CSS Creat Templat From PSD
+HTML And CSS Create Templat From PSD
